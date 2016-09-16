@@ -1,0 +1,5 @@
+<templateSet group="html/xml">
+  <template name="noop" value="rel=&quot;noopener noreferrer&quot;" description="noopener" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

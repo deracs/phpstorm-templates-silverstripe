@@ -1,0 +1,580 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="sileniestate" values="YAML,IDEA_MODULE,Native,ReST,UNKNOWN,Less,Images,Ini,SourceMap,ARCHIVE,SCSS,PHP,CoffeeScript,JavaScript,SilverStripe,HTML,SmartyConfig,XML,PLAIN_TEXT,JSHint file,Git file,SQL,CSS,Markdown,JSON,Cucumber,htaccess,JSON Schema" collectionTime="1469928700133" />
+      <project id="junkfreejune.org" values="YAML,XML,PHP,SilverStripe,SCSS,CSS,Git file,SourceMap,JSHint file,JavaScript,SQL,PLAIN_TEXT,htaccess,Less,UNKNOWN,JSON,PATCH,ESLint,Images,HTML" collectionTime="1469404874697" />
+      <project id="jumpflex" values="JSON Schema,PHP,TypeScript,SCSS,Native,Npm file,JSON,IDEA_MODULE,CoffeeScript,PATCH,C++,JavaScript,Markdown,JSHint file,SmartyConfig,CSS,Cucumber,HTML,Less,ESLint file,ARCHIVE,SourceMap,ReST,Git file,Docker file,Smarty,SilverStripe,JSX Harmony,UNKNOWN,YAML,PLAIN_TEXT,XML,JSCS,SQL,JSHint,Ini,Images,htaccess" collectionTime="1473901126242" />
+      <project id="honeycentre.com" values="ReST,SCSS,PHP,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,JSON Schema,JSON,SourceMap,Ini,CoffeeScript,Markdown,YAML,CSS,SilverStripe,JSHint,SQL,htaccess,JavaScript,Less,XML,HTML,JSHint file,ARCHIVE,Cucumber,Images,Git file,SmartyConfig,Native" collectionTime="1473031963194" />
+      <project id="campquality.org.nz" values="SourceMap,Git file,ARCHIVE,SmartyConfig,Docker file,PHP,JSX Harmony,JSON,JSHint file,Markdown,ReST,Less,YAML,SilverStripe,XML,PLAIN_TEXT,ESLint file,Ini,TypeScript,JavaScript,HTML,PATCH,SCSS,UNKNOWN,C++,Images,htaccess,Npm file,JSHint,JSON Schema,Cucumber,CSS,JSCS,Native,SQL,IDEA_MODULE,CoffeeScript" collectionTime="1473901337409" />
+      <project id="rocketlab.co.nz" values="ReST,Images,htaccess,JavaScript,YAML,PHP,SQL,UNKNOWN,Native,JSON,HTML,Cucumber,Ini,CoffeeScript,JSON Schema,SilverStripe,ARCHIVE,XML,Markdown,CSS,SourceMap,PLAIN_TEXT,Smarty,SmartyConfig,Git file,IDEA_MODULE,SCSS" collectionTime="1472422530311" />
+      <project id="dunlopfoams.com.au" values="UNKNOWN,CSS,PHP,Cucumber,IDEA_MODULE,YAML,XML,SmartyConfig,Images,SQL,ARCHIVE,Npm file,JSHint file,C++,JSX Harmony,SCSS,JavaScript,Native,ReST,JSCS,Ignore file,PATCH,HTML,Docker file,Less,TypeScript,JSHint,Ini,JSON Schema,SourceMap,CoffeeScript,htaccess,Markdown,PLAIN_TEXT,JSON,ESLint file,Git file,SilverStripe" collectionTime="1472592699758" />
+      <project id="buildnz.com" values="SourceMap,Ini,Npm file,Images,JSON,htaccess,JSHint file,UNKNOWN,SCSS,ARCHIVE,SilverStripe,JSHint,ActionScript,PLAIN_TEXT,Cucumber,PATCH,C++,SQL,YAML,CSS,XML,Native,Less,Docker file,ESLint,PHP,HTML,Sass,Git file,CoffeeScript,SmartyConfig,JSCS,ESLint file,JavaScript" collectionTime="1466487769144" />
+      <project id="ccel.co.nz" values="YAML,UNKNOWN,HTML,Markdown,Images,PHP,PLAIN_TEXT,Native,htaccess,ReST,SmartyConfig,CSS,IDEA_MODULE,JavaScript,Git file,SCSS,CoffeeScript,Ini,ARCHIVE,Less,SilverStripe,JSON,XML,SQL,SourceMap,JSHint file,Cucumber,JSON Schema" collectionTime="1472443778656" />
+      <project id="lesmills-signup" values="SCSS,ReST,JSON,Native,Git file,JSON Schema,Cucumber,CSS,ESLint file,CoffeeScript,Npm file,PLAIN_TEXT,Docker file,UNKNOWN,Smarty,JSCS,ARCHIVE,PATCH,SmartyConfig,JavaScript,SilverStripe,JSHint file,C++,XML,SourceMap,Less,SQL,TypeScript,JSX Harmony,Images,JSHint,YAML,IDEA_MODULE,HTML,PHP,Ini,htaccess,Markdown" collectionTime="1473982687979" />
+      <project id="pokemongo-webspoof" values="Git file,JavaScript,JSON,PLAIN_TEXT,UNKNOWN,Images,Markdown,ESLint file,HTML,C++,JSON Schema,Npm file,CSS" collectionTime="1469662041125" />
+      <project id="plumbingplus.co.nz" values="JavaScript,SCSS,JSCS,ARCHIVE,JSHint file,ESLint file,PHP,SmartyConfig,SilverStripe,C++,Native,PATCH,JSHint,TypeScript,PLAIN_TEXT,UNKNOWN,JSX Harmony,JSON Schema,CSS,htaccess,HTML,ReST,Markdown,Docker file,XML,Npm file,Images,IDEA_MODULE,SourceMap,Less,Cucumber,Ini,Git file,YAML,CoffeeScript,JSON,SQL" collectionTime="1473912424568" />
+      <project id="halcyonlights.co.nz" values="Native,CSS,SCSS,YAML,PHP,SourceMap,JSCS,Images,JSHint,ARCHIVE,Ini,UNKNOWN,HTML,SQL,XML,PLAIN_TEXT,Git file,htaccess,PATCH,C++,Npm file,Cucumber,JSON,SmartyConfig,SilverStripe,ESLint file,JavaScript,ESLint,Docker file,Sass,CoffeeScript,Less,JSHint file" collectionTime="1468529397784" />
+      <project id="select2" values="PLAIN_TEXT,Images,UNKNOWN,XML,JavaScript,CSS,JSON,PHP" collectionTime="1468983937319" />
+      <project id="jumpropeforheart.org.nz" values="JavaScript,ESLint,PHP,CSS,PLAIN_TEXT,JSHint file,YAML,Less,XML,JSON,Images,JSHint,Git file,SilverStripe,HTML,htaccess,UNKNOWN" collectionTime="1466367664694" />
+      <project id="thelocals.co.nz" values="UNKNOWN,IDEA_MODULE,JSHint file,htaccess,JSON Schema,SmartyConfig,CSS,SQL,PHP,ReST,Ini,SCSS,CoffeeScript,YAML,ARCHIVE,PLAIN_TEXT,Git file,Native,Less,HTML,JavaScript,Images,Cucumber,JSHint,XML,SilverStripe,Markdown" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="Markdown,HTML,JavaScript,Git file,SilverStripe,JSHint file,Images,XML,Less,htaccess,YAML,JSON,PLAIN_TEXT,PHP,CSS,JSON Schema" collectionTime="1473820753844" />
+      <project id="betterlifesurgery.co.nz" values="JSHint,XML,HTML,Sass,CoffeeScript,Images,UNKNOWN,Npm file,Cucumber,SilverStripe,Less,Native,ARCHIVE,YAML,PLAIN_TEXT,SQL,CSS,htaccess,Git file,SCSS,SmartyConfig,PHP,JSHint file,Markdown,JSON Schema,JavaScript,Ini,SourceMap" collectionTime="1472013750872" />
+      <project id="chineseherald.co.nz" values="XML,PHP,Sass,PLAIN_TEXT,IDEA_MODULE,PATCH,JSON,HTML,Less,TypeScript,ARCHIVE,UNKNOWN,SilverStripe,JSX Harmony,JSHint,Git file,CSS,SCSS,JavaScript,SourceMap,Npm file,Ini,JSON Schema,ESLint file,SmartyConfig,C++,YAML,JSHint file,SQL,Markdown,CoffeeScript,Native,htaccess,Cucumber,JSCS,Images,ReST,Docker file" collectionTime="1473910946636" />
+      <project id="sileninano.co.nz" values="Images,ReST,Ini,SilverStripe,PHP,Less,PLAIN_TEXT,JSHint,YAML,IDEA_MODULE,SmartyConfig,Native,SQL,SCSS,JSON,CoffeeScript,HTML,SourceMap,Cucumber,UNKNOWN,JSHint file,Markdown,Git file,JavaScript,htaccess,ARCHIVE,CSS,XML,JSON Schema" collectionTime="1472446367612" />
+      <project id="thepond.net" values="Native,JSON Schema,ActionScript,Ini,CSS,Ignore file,htaccess,UNKNOWN,SmartyConfig,PHP,JSHint file,ESLint file,SCSS,Images,Npm file,JSX Harmony,Less,YAML,Cucumber,Perl,CoffeeScript,SilverStripe,PATCH,DTD,Markdown,ReST,HTML,JSHint,JSON,SourceMap,C++,Git file,ARCHIVE,JavaScript,Docker file,SQL,XML,JSCS,PLAIN_TEXT" collectionTime="1473312263212" />
+      <project id="paylessbins.com" values="SCSS,ARCHIVE,UNKNOWN,Git file,PLAIN_TEXT,JSHint file,Markdown,XML,Ini,ReST,CoffeeScript,Native,SourceMap,htaccess,Images,SmartyConfig,CSS,YAML,PHP,HTML,JSON,JSON Schema,SilverStripe,JavaScript,JSHint,Cucumber,SQL,Less,IDEA_MODULE" collectionTime="1471389242215" />
+      <project id="adshel.co.nz" values="JSON,CSS,SQL,JavaScript,Ini,JSON Schema,IDEA_MODULE,SourceMap,ESLint file,Native,Markdown,TypeScript,htaccess,ReST,Docker file,JSHint file,Less,PLAIN_TEXT,C++,HTML,SmartyConfig,JSX Harmony,CoffeeScript,Cucumber,YAML,UNKNOWN,Git file,Images,SCSS,PHP,JSHint,PATCH,Npm file,SilverStripe,JSCS,XML,ARCHIVE" collectionTime="1472766360411" />
+      <project id="kokoclassics.com" values="XML,YAML,JSON,Less,UNKNOWN,CSS,PLAIN_TEXT,htaccess,Images,SilverStripe,Markdown,JavaScript,JSHint,JSHint file,HTML,JSON Schema,PHP,Git file" collectionTime="1470886966742" />
+      <project id="tredsafe.com" values="YAML,JSON,SilverStripe,SCSS,HTML,Less,ARCHIVE,CoffeeScript,SQL,Cucumber,Ini,JavaScript,Git file,SourceMap,htaccess,Markdown,CSS,PHP,JSHint,Native,JSHint file,Images,UNKNOWN,IDEA_MODULE,SmartyConfig,JSON Schema,XML,ReST,PLAIN_TEXT" collectionTime="1472694814551" />
+      <project id="jssdk_sample" values="XML,UNKNOWN" collectionTime="1468983929655" />
+      <project id="mimico.co.nz" values="Markdown,PATCH,JSX Harmony,Native,CoffeeScript,Less,JSHint file,htaccess,Git file,Docker file,Ini,JSCS,SmartyConfig,ARCHIVE,SourceMap,JSHint,Npm file,Images,ReST,HTML,CSS,TypeScript,YAML,ESLint file,PLAIN_TEXT,XML,Cucumber,JSON Schema,Ignore file,SilverStripe,JSON,PHP,UNKNOWN,SQL,IDEA_MODULE,SCSS,JavaScript,C++" collectionTime="1470361066319" />
+      <project id="keanewzealand.com-2015" values="ReST,Cucumber,SCSS,SmartyConfig,PLAIN_TEXT,ARCHIVE,SQL,JSON Schema,UNKNOWN,CoffeeScript,TypeScript,C++,Markdown,PHP,Native,CSS,Docker file,SourceMap,XML,ESLint file,JSON,IDEA_MODULE,PATCH,Ini,Npm file,SilverStripe,Images,JavaScript,JSHint,Less,JSHint file,Git file,YAML,JSCS,HTML,htaccess,JSX Harmony" collectionTime="1472160210531" />
+      <project id="consultrecruitment.co.nz" values="SourceMap,CSS,JSON,CoffeeScript,PHP,JSHint file,ARCHIVE,Cucumber,HTML,XML,Ini,PLAIN_TEXT,SilverStripe,htaccess,JSHint,UNKNOWN,ReST,JSON Schema,SCSS,SQL,YAML,Native,SmartyConfig,Markdown,Less,Images,Git file,IDEA_MODULE,JavaScript" collectionTime="1472445712321" />
+      <project id="southmach.co.nz" values="JSHint,JSON,Less,Git file,Native,JavaScript,ARCHIVE,Ini,JSCS,HTML,ActionScript,htaccess,PLAIN_TEXT,C++,CoffeeScript,UNKNOWN,Cucumber,SCSS,SmartyConfig,JSHint file,Images,SQL,SourceMap,XML,YAML,Npm file,CSS,PATCH,ESLint,SilverStripe,PHP" collectionTime="1466388300021" />
+      <project id="lesmills-signups" values="XML,JSON,HTML,SourceMap,Native,htaccess,SCSS,Smarty,PLAIN_TEXT,CoffeeScript,IDEA_MODULE,ReST,Images,SmartyConfig,Cucumber,PHP,SilverStripe,CSS,ARCHIVE,YAML,UNKNOWN,JavaScript,Markdown,JSON Schema,Git file,SQL,Ini" collectionTime="1473715898787" />
+      <project id="accorconferences.co.nz" values="SQL,JSHint,YAML,PHP,Cucumber,Markdown,Images,UNKNOWN,SmartyConfig,PLAIN_TEXT,ARCHIVE,CoffeeScript,JSON Schema,JavaScript,SCSS,XML,Less,JSON,HTML,Ini,Native,htaccess,IDEA_MODULE,SilverStripe,CSS,JSHint file,SourceMap,Git file" collectionTime="1472684567710" />
+      <project id="_modules" values="PHP,YAML,PLAIN_TEXT,SilverStripe,Git file,JSON,XML,CSS,UNKNOWN,JavaScript" collectionTime="1467067903848" />
+      <project id="chesters.co.nz" values="JSCS,Npm file,SilverStripe,CoffeeScript,SCSS,UNKNOWN,Cucumber,C++,SQL,ARCHIVE,XML,JSON,Docker file,HTML,PATCH,htaccess,SmartyConfig,JSHint,SourceMap,ReST,Less,YAML,PHP,Images,JSX Harmony,PLAIN_TEXT,Git file,Ini,JSHint file,ESLint file,Native,CSS,JavaScript,TypeScript,Markdown,IDEA_MODULE,JSON Schema" collectionTime="1473803277743" />
+      <project id="mckenzie" values="SilverStripe,Docker file,Markdown,SourceMap,UNKNOWN,SQL,SmartyConfig,ESLint file,JSHint file,XML,JSX Harmony,Less,JSON Schema,Cucumber,TypeScript,Native,HTML,PHP,JSHint,htaccess,ARCHIVE,Images,JSON,YAML,Ini,Npm file,JavaScript,CoffeeScript,ReST,IDEA_MODULE,JSCS,CSS,C++,Sass,Git file,PATCH,PLAIN_TEXT,SCSS" collectionTime="1473807942380" />
+      <project id="felton.co.nz" values="Docker file,JSCS,C++,Native,SQL,JSHint,UNKNOWN,CoffeeScript,Npm file,Markdown,HTML,Git file,SourceMap,Cucumber,ESLint file,JSHint file,DTD,SilverStripe,Less,JSON Schema,Images,JSON,PHP,Ini,PATCH,PLAIN_TEXT,SCSS,CSS,YAML,XML,ARCHIVE,IDEA_MODULE,JavaScript,htaccess,SmartyConfig" collectionTime="1473656879964" />
+      <project id="bpmnz.co.nz" values="YAML,Ini,PHP,CoffeeScript,Cucumber,JSON,Markdown,HTML,ReST,ARCHIVE,Images,Git file,SmartyConfig,SQL,CSS,Less,SilverStripe,UNKNOWN,htaccess,SCSS,Native,IDEA_MODULE,SourceMap,JavaScript,JSHint file,PLAIN_TEXT,XML,JSON Schema" collectionTime="1472440857591" />
+      <project id="geotechnics.co.nz" values="PLAIN_TEXT,UNKNOWN,Less,PHP,JSHint file,JavaScript,JSON,YAML,Git file,ESLint,HTML,XML,CSS,Images,SilverStripe,htaccess" collectionTime="1467758026879" />
+      <project id="keanewzealand.com" values="Ini,JSON,C++,CSS,htaccess,ReST,SQL,ARCHIVE,Cucumber,Git file,JSCS,CoffeeScript,YAML,PLAIN_TEXT,Docker file,Native,TypeScript,SCSS,JavaScript,PATCH,JSHint,HTML,SmartyConfig,Ignore file,ESLint,PHP,ESLint file,Less,SourceMap,Npm file,Images,XML,UNKNOWN,SilverStripe,JSHint file" collectionTime="1468360555005" />
+      <project id="goodmanvxv" values="Git file,PHP,CSS,Ini,ReST,SmartyConfig,JSCS,Npm file,SourceMap,ARCHIVE,IDEA_MODULE,htaccess,Markdown,JSON Schema,SQL,C++,Docker file,Smarty,JSX Harmony,Native,UNKNOWN,Images,Less,XML,ESLint file,SilverStripe,SCSS,Cucumber,PATCH,JSHint file,Twig,TypeScript,JavaScript,CoffeeScript,PLAIN_TEXT,JSON,HTML,JSHint,YAML" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="SmartyConfig,PHP,Git file,YAML,XML,htaccess,ActionScript,JSHint file,SCSS,SilverStripe,Ini,ARCHIVE,Cucumber,Native,PLAIN_TEXT,Images,UNKNOWN,HTML,SQL,JavaScript,CSS,CoffeeScript,JSON,Less,JSHint" collectionTime="1466483698370" />
+      <project id="gjgardner.co.nz" values="JSHint file,CSS,SilverStripe,YAML,htaccess,HTML,Less,UNKNOWN,PHP,JSON Schema,Git file,XML,Markdown,Images,JavaScript,JSON,PLAIN_TEXT" collectionTime="1470015793248" />
+      <project id="piccolini.co.nz" values="JavaScript,PATCH,SmartyConfig,Git file,Cucumber,IDEA_MODULE,SourceMap,Native,JSCS,CoffeeScript,JSON,SilverStripe,JSX Harmony,JSON Schema,HTML,JSHint file,YAML,Sass,ARCHIVE,JSHint,ReST,ESLint file,CSS,TypeScript,PLAIN_TEXT,XML,SQL,htaccess,Images,Npm file,SCSS,UNKNOWN,Markdown,Docker file,Less,PHP,C++,Ini" collectionTime="1470280345541" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="pokemongo-webspoof" values="node_modules" collectionTime="1469662041128" />
+    </group>
+    <group name="images.ide.background">
+      <project id="consultrecruitment.co.nz" values="editor 0,frame 0" collectionTime="1472445712321" />
+      <project id="jumpflex" values="editor 0,frame 0" collectionTime="1473901126243" />
+      <project id="honeycentre.com" values="editor 0,frame 0" collectionTime="1473031963195" />
+      <project id="campquality.org.nz" values="editor=0,frame=0" collectionTime="1473901337422" />
+      <project id="rocketlab.co.nz" values="editor 0,frame 0" collectionTime="1472422530312" />
+      <project id="dunlopfoams.com.au" values="frame 0,editor 0" collectionTime="1472592699759" />
+      <project id="ccel.co.nz" values="frame 0,editor 0" collectionTime="1472443778656" />
+      <project id="lesmills-signup" values="editor=0,frame=0" collectionTime="1473982687979" />
+      <project id="pokemongo-webspoof" values="editor 0,frame 0" collectionTime="1469662041125" />
+      <project id="thepond.net" values="frame 0,editor 0" collectionTime="1473312263214" />
+      <project id="thelocals.co.nz" values="frame 0,editor 0" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="editor 0,frame 0" collectionTime="1473820753844" />
+      <project id="betterlifesurgery.co.nz" values="editor 0,frame 0" collectionTime="1472013750872" />
+      <project id="chineseherald.co.nz" values="frame=0,editor=0" collectionTime="1473910946637" />
+      <project id="sileninano.co.nz" values="frame 0,editor 0" collectionTime="1472446367612" />
+      <project id="adshel.co.nz" values="frame 0,editor 0" collectionTime="1472766360412" />
+      <project id="kokoclassics.com" values="frame 0,editor 0" collectionTime="1470886966742" />
+      <project id="tredsafe.com" values="frame 0,editor 0" collectionTime="1472694814551" />
+      <project id="mimico.co.nz" values="editor 0,frame 0" collectionTime="1470361066319" />
+      <project id="keanewzealand.com-2015" values="frame 0,editor 0" collectionTime="1472160210532" />
+      <project id="sileniestate" values="editor 0,frame 0" collectionTime="1469928700134" />
+      <project id="lesmills-signups" values="editor 0,frame 0" collectionTime="1473715898787" />
+      <project id="accorconferences.co.nz" values="frame 0,editor 0" collectionTime="1472684567711" />
+      <project id="paylessbins.com" values="frame 0,editor 0" collectionTime="1471389242215" />
+      <project id="chesters.co.nz" values="editor 0,frame 0" collectionTime="1473803277743" />
+      <project id="mckenzie" values="frame 0,editor 0" collectionTime="1473807942381" />
+      <project id="felton.co.nz" values="editor 0,frame 0" collectionTime="1473656879964" />
+      <project id="bpmnz.co.nz" values="frame 0,editor 0" collectionTime="1472440857591" />
+      <project id="plumbingplus.co.nz" values="editor=0,frame=0" collectionTime="1473912424569" />
+      <project id="goodmanvxv" values="frame 0,editor 0" collectionTime="1473305378820" />
+      <project id="gjgardner.co.nz" values="editor 0,frame 0" collectionTime="1470015793251" />
+      <project id="piccolini.co.nz" values="frame 0,editor 0" collectionTime="1470280345541" />
+    </group>
+    <group name="vcs">
+      <project id="sileniestate" values="Git" collectionTime="1469928700107" />
+      <project id="junkfreejune.org" values="Git" collectionTime="1469404874669" />
+      <project id="jumpflex" values="Git" collectionTime="1473901126212" />
+      <project id="honeycentre.com" values="Git" collectionTime="1473031963176" />
+      <project id="campquality.org.nz" values="Git" collectionTime="1473901337375" />
+      <project id="rocketlab.co.nz" values="Git" collectionTime="1472422530292" />
+      <project id="dunlopfoams.com.au" values="Git" collectionTime="1472592699721" />
+      <project id="buildnz.com" values="Git" collectionTime="1466487769131" />
+      <project id="ccel.co.nz" values="Git" collectionTime="1472443778632" />
+      <project id="lesmills-signup" values="Git" collectionTime="1473982687949" />
+      <project id="pokemongo-webspoof" values="Git" collectionTime="1469662041107" />
+      <project id="plumbingplus.co.nz" values="Git" collectionTime="1473912424530" />
+      <project id="halcyonlights.co.nz" values="Git" collectionTime="1468529397766" />
+      <project id="jumpropeforheart.org.nz" values="Git" collectionTime="1466367664685" />
+      <project id="thelocals.co.nz" values="Git" collectionTime="1470863417754" />
+      <project id="getpalace.com" values="Git" collectionTime="1473820753817" />
+      <project id="betterlifesurgery.co.nz" values="Git" collectionTime="1472013750838" />
+      <project id="chineseherald.co.nz" values="Git" collectionTime="1473910946611" />
+      <project id="sileninano.co.nz" values="Git" collectionTime="1472446367599" />
+      <project id="thepond.net" values="Git" collectionTime="1473312263176" />
+      <project id="adshel.co.nz" values="Git" collectionTime="1472766360391" />
+      <project id="kokoclassics.com" values="Git" collectionTime="1470886966727" />
+      <project id="tredsafe.com" values="Git" collectionTime="1472694814531" />
+      <project id="mimico.co.nz" values="Git" collectionTime="1470361066297" />
+      <project id="keanewzealand.com-2015" values="Git" collectionTime="1472160210507" />
+      <project id="consultrecruitment.co.nz" values="Git" collectionTime="1472445712295" />
+      <project id="southmach.co.nz" values="Git" collectionTime="1466388300012" />
+      <project id="lesmills-signups" values="Git" collectionTime="1473715898749" />
+      <project id="accorconferences.co.nz" values="Git" collectionTime="1472684567482" />
+      <project id="paylessbins.com" values="Git" collectionTime="1471389242188" />
+      <project id="chesters.co.nz" values="Git" collectionTime="1473803277716" />
+      <project id="mckenzie" values="Git" collectionTime="1473807942350" />
+      <project id="felton.co.nz" values="Git" collectionTime="1473656879931" />
+      <project id="bpmnz.co.nz" values="Git" collectionTime="1472440857567" />
+      <project id="geotechnics.co.nz" values="Git" collectionTime="1467758026848" />
+      <project id="keanewzealand.com" values="Git" collectionTime="1468360554983" />
+      <project id="goodmanvxv" values="Git" collectionTime="1473305378787" />
+      <project id="canterburybuildnz" values="Git" collectionTime="1466483698356" />
+      <project id="gjgardner.co.nz" values="Git" collectionTime="1470015793227" />
+      <project id="piccolini.co.nz" values="Git" collectionTime="1470280345513" />
+    </group>
+    <group name="php-servers">
+      <project id="sileniestate" values="0" collectionTime="1469928700136" />
+      <project id="junkfreejune.org" values="0" collectionTime="1469404874706" />
+      <project id="jumpflex" values="0" collectionTime="1473901126248" />
+      <project id="honeycentre.com" values="0" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="0" collectionTime="1473901337425" />
+      <project id="rocketlab.co.nz" values="0" collectionTime="1472422530415" />
+      <project id="dunlopfoams.com.au" values="0" collectionTime="1472592699766" />
+      <project id="buildnz.com" values="0" collectionTime="1466487769151" />
+      <project id="ccel.co.nz" values="0" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="0" collectionTime="1473982687986" />
+      <project id="pokemongo-webspoof" values="0" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="0" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="0" collectionTime="1468529397784" />
+      <project id="select2" values="0" collectionTime="1468983937321" />
+      <project id="jumpropeforheart.org.nz" values="0" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="0" collectionTime="1470863417758" />
+      <project id="getpalace.com" values="0" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="0" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="0" collectionTime="1473910946641" />
+      <project id="sileninano.co.nz" values="0" collectionTime="1472446367613" />
+      <project id="thepond.net" values="0" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="0" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="0" collectionTime="1472766360413" />
+      <project id="kokoclassics.com" values="0" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="0" collectionTime="1472694814552" />
+      <project id="jssdk_sample" values="0" collectionTime="1468983929659" />
+      <project id="mimico.co.nz" values="0" collectionTime="1470361066322" />
+      <project id="keanewzealand.com-2015" values="0" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="0" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="0" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="0" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="0" collectionTime="1472684567727" />
+      <project id="_modules" values="0" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="2" collectionTime="1473803277744" />
+      <project id="mckenzie" values="0" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="0" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="0" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="0" collectionTime="1467758026881" />
+      <project id="keanewzealand.com" values="0" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="0" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="0" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="0" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="0" collectionTime="1470280345546" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="chineseherald.co.nz" values="PHPUnitRunConfigurationType" collectionTime="1473910946611" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="sileniestate" values="not installed" collectionTime="1469928700136" />
+      <project id="junkfreejune.org" values="not installed" collectionTime="1469404874706" />
+      <project id="jumpflex" values="not installed" collectionTime="1473901126248" />
+      <project id="honeycentre.com" values="not installed" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="not installed" collectionTime="1473901337425" />
+      <project id="rocketlab.co.nz" values="not installed" collectionTime="1472422530415" />
+      <project id="dunlopfoams.com.au" values="not installed" collectionTime="1472592699766" />
+      <project id="buildnz.com" values="not installed" collectionTime="1466487769151" />
+      <project id="ccel.co.nz" values="not installed" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="not installed" collectionTime="1473982687986" />
+      <project id="pokemongo-webspoof" values="not installed" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="not installed" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="not installed" collectionTime="1468529397784" />
+      <project id="select2" values="not installed" collectionTime="1468983937321" />
+      <project id="jumpropeforheart.org.nz" values="not installed" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="not installed" collectionTime="1470863417758" />
+      <project id="getpalace.com" values="not installed" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="not installed" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="not installed" collectionTime="1473910946641" />
+      <project id="sileninano.co.nz" values="not installed" collectionTime="1472446367613" />
+      <project id="thepond.net" values="not installed" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="not installed" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="not installed" collectionTime="1472766360413" />
+      <project id="kokoclassics.com" values="not installed" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="not installed" collectionTime="1472694814552" />
+      <project id="jssdk_sample" values="not installed" collectionTime="1468983929659" />
+      <project id="mimico.co.nz" values="not installed" collectionTime="1470361066322" />
+      <project id="keanewzealand.com-2015" values="not installed" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="not installed" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="not installed" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="not installed" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="not installed" collectionTime="1472684567727" />
+      <project id="_modules" values="not installed" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="not installed" collectionTime="1473803277744" />
+      <project id="mckenzie" values="not installed" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="not installed" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="not installed" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="not installed" collectionTime="1467758026882" />
+      <project id="keanewzealand.com" values="not installed" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="not installed" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="not installed" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="not installed" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="not installed" collectionTime="1470280345546" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="sileniestate" values="0" collectionTime="1469928700136" />
+      <project id="junkfreejune.org" values="0" collectionTime="1469404874706" />
+      <project id="jumpflex" values="0" collectionTime="1473901126248" />
+      <project id="honeycentre.com" values="0" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="0" collectionTime="1473901337425" />
+      <project id="rocketlab.co.nz" values="0" collectionTime="1472422530421" />
+      <project id="dunlopfoams.com.au" values="0" collectionTime="1472592699766" />
+      <project id="buildnz.com" values="0" collectionTime="1466487769151" />
+      <project id="ccel.co.nz" values="0" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="0" collectionTime="1473982687987" />
+      <project id="pokemongo-webspoof" values="0" collectionTime="1469662041129" />
+      <project id="plumbingplus.co.nz" values="0" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="0" collectionTime="1468529397784" />
+      <project id="select2" values="0" collectionTime="1468983937321" />
+      <project id="jumpropeforheart.org.nz" values="0" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="0" collectionTime="1470863417758" />
+      <project id="getpalace.com" values="0" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="0" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="0" collectionTime="1473910946641" />
+      <project id="sileninano.co.nz" values="0" collectionTime="1472446367613" />
+      <project id="thepond.net" values="0" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="0" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="0" collectionTime="1472766360413" />
+      <project id="kokoclassics.com" values="0" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="0" collectionTime="1472694814552" />
+      <project id="jssdk_sample" values="0" collectionTime="1468983929659" />
+      <project id="mimico.co.nz" values="0" collectionTime="1470361066322" />
+      <project id="keanewzealand.com-2015" values="0" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="0" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="0" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="0" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="0" collectionTime="1472684567727" />
+      <project id="_modules" values="0" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="0" collectionTime="1473803277744" />
+      <project id="mckenzie" values="0" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="0" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="0" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="0" collectionTime="1467758026882" />
+      <project id="keanewzealand.com" values="0" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="0" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="0" collectionTime="1466483698372" />
+      <project id="gjgardner.co.nz" values="0" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="0" collectionTime="1470280345546" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="consultrecruitment.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472445712321" />
+      <project id="jumpflex" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473901126243" />
+      <project id="honeycentre.com" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473031963195" />
+      <project id="campquality.org.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473901337422" />
+      <project id="rocketlab.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472422530312" />
+      <project id="dunlopfoams.com.au" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1472592699759" />
+      <project id="ccel.co.nz" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1472443778656" />
+      <project id="lesmills-signup" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1473982687979" />
+      <project id="pokemongo-webspoof" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1469662041125" />
+      <project id="thepond.net" values="data.commit.count.1K+,data.git.root.count.1" collectionTime="1473312263214" />
+      <project id="thelocals.co.nz" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473820753844" />
+      <project id="betterlifesurgery.co.nz" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1472013750872" />
+      <project id="chineseherald.co.nz" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473910946637" />
+      <project id="sileninano.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472446367612" />
+      <project id="adshel.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472766360412" />
+      <project id="kokoclassics.com" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1470886966742" />
+      <project id="tredsafe.com" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1472694814551" />
+      <project id="mimico.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1470361066319" />
+      <project id="keanewzealand.com-2015" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472160210532" />
+      <project id="sileniestate" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1469928700134" />
+      <project id="lesmills-signups" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473715898787" />
+      <project id="accorconferences.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472684567711" />
+      <project id="paylessbins.com" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1471389242215" />
+      <project id="chesters.co.nz" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473803277743" />
+      <project id="mckenzie" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1473807942381" />
+      <project id="felton.co.nz" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473656879964" />
+      <project id="bpmnz.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1472440857591" />
+      <project id="plumbingplus.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473912424569" />
+      <project id="goodmanvxv" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473305378820" />
+      <project id="gjgardner.co.nz" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1470015793251" />
+      <project id="piccolini.co.nz" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1470280345541" />
+    </group>
+    <group name="php-interpreters">
+      <project id="sileniestate" values="0" collectionTime="1469928700136" />
+      <project id="junkfreejune.org" values="0" collectionTime="1469404874706" />
+      <project id="jumpflex" values="0" collectionTime="1473901126248" />
+      <project id="honeycentre.com" values="0" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="0" collectionTime="1473901337425" />
+      <project id="rocketlab.co.nz" values="0" collectionTime="1472422530419" />
+      <project id="dunlopfoams.com.au" values="0" collectionTime="1472592699766" />
+      <project id="buildnz.com" values="0" collectionTime="1466487769151" />
+      <project id="ccel.co.nz" values="0" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="0" collectionTime="1473982687987" />
+      <project id="pokemongo-webspoof" values="0" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="0" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="0" collectionTime="1468529397784" />
+      <project id="select2" values="0" collectionTime="1468983937321" />
+      <project id="jumpropeforheart.org.nz" values="0" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="0" collectionTime="1470863417758" />
+      <project id="getpalace.com" values="0" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="0" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="0" collectionTime="1473910946641" />
+      <project id="sileninano.co.nz" values="0" collectionTime="1472446367613" />
+      <project id="thepond.net" values="0" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="0" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="0" collectionTime="1472766360413" />
+      <project id="kokoclassics.com" values="0" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="0" collectionTime="1472694814552" />
+      <project id="jssdk_sample" values="0" collectionTime="1468983929659" />
+      <project id="mimico.co.nz" values="0" collectionTime="1470361066322" />
+      <project id="keanewzealand.com-2015" values="0" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="0" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="0" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="0" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="0" collectionTime="1472684567727" />
+      <project id="_modules" values="0" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="0" collectionTime="1473803277744" />
+      <project id="mckenzie" values="0" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="0" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="0" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="0" collectionTime="1467758026882" />
+      <project id="keanewzealand.com" values="0" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="0" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="0" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="0" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="0" collectionTime="1470280345546" />
+    </group>
+    <group name="Git">
+      <project id="consultrecruitment.co.nz" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,config.force.push.enabled,data.local.branches.count.2+,data.remote.branches.count.2+,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1472445712321" />
+      <project id="jumpflex" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.2+,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remote.branches.count.30+,data.local.branches.count.2+" collectionTime="1473901126243" />
+      <project id="honeycentre.com" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1473031963195" />
+      <project id="campquality.org.nz" values="data.remotes.in.project.1,data.local.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.remote.branches.count.15+" collectionTime="1473901337422" />
+      <project id="rocketlab.co.nz" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,data.remote.branches.count.2+,config.force.push.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1472422530312" />
+      <project id="dunlopfoams.com.au" values="config.push.update.all.roots.enabled,data.local.branches.count.2+,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1472592699759" />
+      <project id="ccel.co.nz" values="config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,data.remotes.in.project.1,data.remote.branches.count.2+,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.force.push.enabled" collectionTime="1472443778656" />
+      <project id="lesmills-signup" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.5+,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+" collectionTime="1473982687979" />
+      <project id="pokemongo-webspoof" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,data.remote.branches.count.2+,config.warn.about.detached.enabled" collectionTime="1469662041125" />
+      <project id="thepond.net" values="data.remote.branches.count.2+,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1473312263214" />
+      <project id="thelocals.co.nz" values="data.local.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,data.remote.branches.count.1,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,data.local.branches.count.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT" collectionTime="1473820753844" />
+      <project id="betterlifesurgery.co.nz" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.ssh.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1472013750872" />
+      <project id="chineseherald.co.nz" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1473910946637" />
+      <project id="sileninano.co.nz" values="data.remotes.in.project.1,config.save.policy.STASH,data.local.branches.count.2+,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled" collectionTime="1472446367612" />
+      <project id="adshel.co.nz" values="data.remote.branches.count.8+,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.local.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1472766360412" />
+      <project id="kokoclassics.com" values="data.remote.branches.count.2+,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled" collectionTime="1470886966742" />
+      <project id="tredsafe.com" values="config.push.update.all.roots.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+,data.remote.branches.count.5+,config.warn.about.crlf.enabled" collectionTime="1472694814551" />
+      <project id="mimico.co.nz" values="config.push.autoupdate.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1470361066319" />
+      <project id="keanewzealand.com-2015" values="config.warn.about.crlf.enabled,config.force.push.enabled,data.remote.branches.count.5+,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remotes.in.project.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1472160210532" />
+      <project id="sileniestate" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.15+,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1469928700135" />
+      <project id="lesmills-signups" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.local.branches.count.1,data.remote.branches.count.15+,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1473715898787" />
+      <project id="accorconferences.co.nz" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1472684567714" />
+      <project id="paylessbins.com" values="data.remotes.in.project.1,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1" collectionTime="1471389242215" />
+      <project id="chesters.co.nz" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+" collectionTime="1473803277744" />
+      <project id="mckenzie" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remote.branches.count.15+,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.ssh.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1473807942381" />
+      <project id="felton.co.nz" values="data.remotes.in.project.1,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.2+,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1473656879965" />
+      <project id="bpmnz.co.nz" values="config.warn.about.crlf.enabled,config.ssh.enabled,data.local.branches.count.2+,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1472440857591" />
+      <project id="plumbingplus.co.nz" values="config.push.update.all.roots.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,data.remote.branches.count.8+" collectionTime="1473912424569" />
+      <project id="goodmanvxv" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.ssh.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.8+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,data.local.branches.count.2+" collectionTime="1473305378820" />
+      <project id="gjgardner.co.nz" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.remote.branches.count.30+,config.force.push.enabled,config.save.policy.STASH" collectionTime="1470015793252" />
+      <project id="piccolini.co.nz" values="config.warn.about.crlf.enabled,data.local.branches.count.2+,data.remotes.in.project.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1470280345541" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="sileniestate" values="Project,Project,Project" collectionTime="1469928700135" />
+      <project id="junkfreejune.org" values="Project,Project" collectionTime="1469404874705" />
+      <project id="jumpflex" values="Project,Project,Project" collectionTime="1473901126247" />
+      <project id="honeycentre.com" values="Project,Project" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="Project,Project" collectionTime="1473901337423" />
+      <project id="rocketlab.co.nz" values="Project,Project" collectionTime="1472422530410" />
+      <project id="dunlopfoams.com.au" values="Project,Project" collectionTime="1472592699765" />
+      <project id="buildnz.com" values="Project,Project" collectionTime="1466487769150" />
+      <project id="ccel.co.nz" values="Project,Project" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="Project,Project,Project" collectionTime="1473982687986" />
+      <project id="pokemongo-webspoof" values="Project,Project,Directory,Project" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="Project,Project,Project" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="Project,Project" collectionTime="1468529397784" />
+      <project id="select2" values="Project,Project" collectionTime="1468983937320" />
+      <project id="jumpropeforheart.org.nz" values="Project,Project" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="Project,Project" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="Project,Project" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="Project,Project" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="Project,Project" collectionTime="1473910946640" />
+      <project id="sileninano.co.nz" values="Project,Project" collectionTime="1472446367613" />
+      <project id="thepond.net" values="Project,Project" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="Project,Project" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="Project,Project,Project" collectionTime="1472766360412" />
+      <project id="kokoclassics.com" values="Project,Project" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="Project,Project" collectionTime="1472694814551" />
+      <project id="jssdk_sample" values="Project,Project" collectionTime="1468983929658" />
+      <project id="mimico.co.nz" values="Project,Project" collectionTime="1470361066321" />
+      <project id="keanewzealand.com-2015" values="Project,Project,Project" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="Project,Project" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="Project,Project" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="Project,Project" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="Project,Project" collectionTime="1472684567724" />
+      <project id="_modules" values="Project,Project" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="Project,Project" collectionTime="1473803277744" />
+      <project id="mckenzie" values="Project,Project,Project" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="Project,Project" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="Project,Project" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="Project,Project" collectionTime="1467758026881" />
+      <project id="keanewzealand.com" values="Project,Project" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="Project,Project,Project" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="Project,Project" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="Project,Project" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="Project,Project" collectionTime="1470280345546" />
+    </group>
+    <group name="php-include-path">
+      <project id="sileniestate" values="0" collectionTime="1469928700136" />
+      <project id="junkfreejune.org" values="0" collectionTime="1469404874705" />
+      <project id="jumpflex" values="0" collectionTime="1473901126247" />
+      <project id="honeycentre.com" values="0" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="0" collectionTime="1473901337424" />
+      <project id="rocketlab.co.nz" values="0" collectionTime="1472422530413" />
+      <project id="dunlopfoams.com.au" values="0" collectionTime="1472592699765" />
+      <project id="buildnz.com" values="0" collectionTime="1466487769150" />
+      <project id="ccel.co.nz" values="0" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="0" collectionTime="1473982687986" />
+      <project id="pokemongo-webspoof" values="0" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="0" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="0" collectionTime="1468529397784" />
+      <project id="select2" values="0" collectionTime="1468983937321" />
+      <project id="jumpropeforheart.org.nz" values="0" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="0" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="0" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="0" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="0" collectionTime="1473910946640" />
+      <project id="sileninano.co.nz" values="0" collectionTime="1472446367613" />
+      <project id="thepond.net" values="0" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="0" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="0" collectionTime="1472766360413" />
+      <project id="kokoclassics.com" values="0" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="0" collectionTime="1472694814552" />
+      <project id="jssdk_sample" values="0" collectionTime="1468983929658" />
+      <project id="mimico.co.nz" values="0" collectionTime="1470361066322" />
+      <project id="keanewzealand.com-2015" values="0" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="0" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="0" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="0" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="0" collectionTime="1472684567726" />
+      <project id="_modules" values="0" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="0" collectionTime="1473803277744" />
+      <project id="mckenzie" values="0" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="0" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="0" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="0" collectionTime="1467758026881" />
+      <project id="keanewzealand.com" values="0" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="0" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="0" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="0" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="0" collectionTime="1470280345546" />
+    </group>
+    <group name="module type">
+      <project id="sileniestate" values="WEB_MODULE" collectionTime="1469928700108" />
+      <project id="junkfreejune.org" values="WEB_MODULE" collectionTime="1469404874670" />
+      <project id="jumpflex" values="WEB_MODULE" collectionTime="1473901126213" />
+      <project id="honeycentre.com" values="WEB_MODULE" collectionTime="1473031963176" />
+      <project id="campquality.org.nz" values="WEB_MODULE" collectionTime="1473901337375" />
+      <project id="rocketlab.co.nz" values="WEB_MODULE" collectionTime="1472422530293" />
+      <project id="dunlopfoams.com.au" values="WEB_MODULE" collectionTime="1472592699721" />
+      <project id="buildnz.com" values="WEB_MODULE" collectionTime="1466487769131" />
+      <project id="ccel.co.nz" values="WEB_MODULE" collectionTime="1472443778632" />
+      <project id="lesmills-signup" values="WEB_MODULE" collectionTime="1473982687949" />
+      <project id="pokemongo-webspoof" values="WEB_MODULE" collectionTime="1469662041107" />
+      <project id="plumbingplus.co.nz" values="WEB_MODULE" collectionTime="1473912424530" />
+      <project id="halcyonlights.co.nz" values="WEB_MODULE" collectionTime="1468529397767" />
+      <project id="select2" values="WEB_MODULE" collectionTime="1468983937314" />
+      <project id="jumpropeforheart.org.nz" values="WEB_MODULE" collectionTime="1466367664685" />
+      <project id="thelocals.co.nz" values="WEB_MODULE" collectionTime="1470863417754" />
+      <project id="getpalace.com" values="WEB_MODULE" collectionTime="1473820753817" />
+      <project id="betterlifesurgery.co.nz" values="WEB_MODULE" collectionTime="1472013750838" />
+      <project id="chineseherald.co.nz" values="WEB_MODULE" collectionTime="1473910946611" />
+      <project id="sileninano.co.nz" values="WEB_MODULE" collectionTime="1472446367599" />
+      <project id="thepond.net" values="WEB_MODULE" collectionTime="1473312263176" />
+      <project id="paylessbins.com" values="WEB_MODULE" collectionTime="1471389242188" />
+      <project id="adshel.co.nz" values="WEB_MODULE" collectionTime="1472766360391" />
+      <project id="kokoclassics.com" values="WEB_MODULE" collectionTime="1470886966727" />
+      <project id="tredsafe.com" values="WEB_MODULE" collectionTime="1472694814531" />
+      <project id="jssdk_sample" values="WEB_MODULE" collectionTime="1468983929632" />
+      <project id="mimico.co.nz" values="WEB_MODULE" collectionTime="1470361066297" />
+      <project id="keanewzealand.com-2015" values="WEB_MODULE" collectionTime="1472160210507" />
+      <project id="consultrecruitment.co.nz" values="WEB_MODULE" collectionTime="1472445712295" />
+      <project id="southmach.co.nz" values="WEB_MODULE" collectionTime="1466388300012" />
+      <project id="lesmills-signups" values="WEB_MODULE" collectionTime="1473715898749" />
+      <project id="accorconferences.co.nz" values="WEB_MODULE" collectionTime="1472684567482" />
+      <project id="_modules" values="WEB_MODULE" collectionTime="1467067903834" />
+      <project id="chesters.co.nz" values="WEB_MODULE" collectionTime="1473803277716" />
+      <project id="mckenzie" values="WEB_MODULE" collectionTime="1473807942350" />
+      <project id="felton.co.nz" values="WEB_MODULE" collectionTime="1473656879931" />
+      <project id="bpmnz.co.nz" values="WEB_MODULE" collectionTime="1472440857567" />
+      <project id="geotechnics.co.nz" values="WEB_MODULE" collectionTime="1467758026848" />
+      <project id="keanewzealand.com" values="WEB_MODULE" collectionTime="1468360554984" />
+      <project id="goodmanvxv" values="WEB_MODULE" collectionTime="1473305378787" />
+      <project id="canterburybuildnz" values="WEB_MODULE" collectionTime="1466483698356" />
+      <project id="gjgardner.co.nz" values="WEB_MODULE" collectionTime="1470015793227" />
+      <project id="piccolini.co.nz" values="WEB_MODULE" collectionTime="1470280345513" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="sileniestate" values="JSX Harmony" collectionTime="1469928700135" />
+      <project id="junkfreejune.org" values="DEFAULT" collectionTime="1469404874705" />
+      <project id="jumpflex" values="ECMAScript 6" collectionTime="1473901126247" />
+      <project id="honeycentre.com" values="ECMAScript 5.1" collectionTime="1473031963198" />
+      <project id="campquality.org.nz" values="ECMAScript 5.1" collectionTime="1473901337423" />
+      <project id="rocketlab.co.nz" values="ECMAScript 5.1" collectionTime="1472422530410" />
+      <project id="dunlopfoams.com.au" values="ECMAScript 5.1" collectionTime="1472592699765" />
+      <project id="buildnz.com" values="DEFAULT" collectionTime="1466487769150" />
+      <project id="ccel.co.nz" values="ECMAScript 5.1" collectionTime="1472443778659" />
+      <project id="lesmills-signup" values="ECMAScript 6" collectionTime="1473982687986" />
+      <project id="pokemongo-webspoof" values="JSX Harmony" collectionTime="1469662041128" />
+      <project id="plumbingplus.co.nz" values="ECMAScript 6" collectionTime="1473912424572" />
+      <project id="halcyonlights.co.nz" values="DEFAULT" collectionTime="1468529397784" />
+      <project id="select2" values="DEFAULT" collectionTime="1468983937320" />
+      <project id="jumpropeforheart.org.nz" values="DEFAULT" collectionTime="1466367664698" />
+      <project id="thelocals.co.nz" values="ECMAScript 5.1" collectionTime="1470863417757" />
+      <project id="getpalace.com" values="ECMAScript 5.1" collectionTime="1473820753847" />
+      <project id="betterlifesurgery.co.nz" values="ECMAScript 5.1" collectionTime="1472013750875" />
+      <project id="chineseherald.co.nz" values="ECMAScript 5.1" collectionTime="1473910946640" />
+      <project id="sileninano.co.nz" values="ECMAScript 5.1" collectionTime="1472446367613" />
+      <project id="thepond.net" values="ECMAScript 5.1" collectionTime="1473312263214" />
+      <project id="paylessbins.com" values="ECMAScript 5.1" collectionTime="1471389242219" />
+      <project id="adshel.co.nz" values="JSX Harmony" collectionTime="1472766360412" />
+      <project id="kokoclassics.com" values="ECMAScript 5.1" collectionTime="1470886966748" />
+      <project id="tredsafe.com" values="ECMAScript 5.1" collectionTime="1472694814551" />
+      <project id="jssdk_sample" values="DEFAULT" collectionTime="1468983929658" />
+      <project id="mimico.co.nz" values="ECMAScript 5.1" collectionTime="1470361066321" />
+      <project id="keanewzealand.com-2015" values="JSX Harmony" collectionTime="1472160210538" />
+      <project id="consultrecruitment.co.nz" values="ECMAScript 5.1" collectionTime="1472445712325" />
+      <project id="southmach.co.nz" values="DEFAULT" collectionTime="1466388300022" />
+      <project id="lesmills-signups" values="ECMAScript 5.1" collectionTime="1473715898791" />
+      <project id="accorconferences.co.nz" values="ECMAScript 5.1" collectionTime="1472684567725" />
+      <project id="_modules" values="DEFAULT" collectionTime="1467067903849" />
+      <project id="chesters.co.nz" values="ECMAScript 5.1" collectionTime="1473803277744" />
+      <project id="mckenzie" values="JSX Harmony" collectionTime="1473807942382" />
+      <project id="felton.co.nz" values="ECMAScript 5.1" collectionTime="1473656879970" />
+      <project id="bpmnz.co.nz" values="ECMAScript 5.1" collectionTime="1472440857595" />
+      <project id="geotechnics.co.nz" values="DEFAULT" collectionTime="1467758026881" />
+      <project id="keanewzealand.com" values="DEFAULT" collectionTime="1468360555009" />
+      <project id="goodmanvxv" values="JSX Harmony" collectionTime="1473305378820" />
+      <project id="canterburybuildnz" values="DEFAULT" collectionTime="1466483698371" />
+      <project id="gjgardner.co.nz" values="ECMAScript 5.1" collectionTime="1470015793256" />
+      <project id="piccolini.co.nz" values="ECMAScript 5.1" collectionTime="1470280345546" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="chesters.co.nz" values="PhpRemoteDebugRunConfigurationType" collectionTime="1473803277716" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="19" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Debug" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="12" />
+      <entry feature="ide.settings.JavaScript" count="14" />
+      <entry feature="ide.settings.Live_Templates" count="21" />
+      <entry feature="ide.settings.PHP" count="4" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="32" />
+      <entry feature="terminal.mac" count="8" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+    </counts>
+  </component>
+</application>

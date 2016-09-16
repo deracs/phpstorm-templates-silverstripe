@@ -1,0 +1,17 @@
+<templateSet group="SilverStripe Template">
+  <template name="incl" value="&lt;% include $$$Inc$ %&gt;" description="Include for templates" toReformat="false" toShortenFQNames="true">
+    <variable name="Inc" expression="incl" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SILVERSTRIPE" value="true" />
+    </context>
+  </template>
+  <template name="end" value="&lt;% end_$end$ %&gt;" description="End Tag" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SILVERSTRIPE" value="true" />
+    </context>
+  </template>
+  <template name="noop" value="rel=&quot;noopener noreferrer&quot;" description="noopener" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

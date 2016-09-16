@@ -1,0 +1,42 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.9" value="15" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="installation.uid" value="8bd6d3fe-f31a-4d33-97a8-99fc31efea30" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="30" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="settings.code.style.selected.tab.PHP" value="Other" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="FileTemplates.SelectedTemplate" value="SS DataObject" />
+    <property name="PLUGIN_FILTER" value="editorcon&#10;editor config&#10;Dash&#10;silver" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="evlsprt.9" value="155da60d75e" />
+    <property name="evlsprt2.9" value="1558e03f588" />
+    <property name="evlsprt3.162" value="18" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Sites/getpalace.com&#10;/Users/michaelgoldsmith/Sites/plumbingplus.co.nz&#10;/Users/michaelgoldsmith/Sites/campquality.org.nz&#10;/Users/michaelgoldsmith/Sites/jumpflex&#10;/Users/michaelgoldsmith/Sites/lesmills-signups&#10;/Users/michaelgoldsmith/Sites/chesters.co.nz&#10;/Users/michaelgoldsmith/Sites/lesmills-signup&#10;/Users/michaelgoldsmith/Sites/thepond.net&#10;/Users/michaelgoldsmith/Sites/goodmanvxv&#10;/Users/michaelgoldsmith/Sites/tredsafe.com&#10;/Users/michaelgoldsmith/Sites/accorconferences.co.nz&#10;/Users/michaelgoldsmith/Sites/honeycentre.com&#10;/Users/michaelgoldsmith/Sites/ccel.co.nz&#10;/Users/michaelgoldsmith/Sites/bpmnz.co.nz&#10;/Users/michaelgoldsmith/Sites/rocketlab.co.nz&#10;/Users/michaelgoldsmith/Sites/betterlifesurgery.co.nz&#10;/Users/michaelgoldsmith/Sites/sileninano.co.nz&#10;/Users/michaelgoldsmith/Sites/paylessbins.com&#10;/Users/michaelgoldsmith/Sites/felton.co.nz&#10;/Users/michaelgoldsmith/Sites/kokoclassics.com&#10;/Users/michaelgoldsmith/Sites/keanewzealand.com-2015&#10;/Users/michaelgoldsmith/Sites/consultrecruitment.co.nz&#10;/Users/michaelgoldsmith/Sites/thelocals.co.nz&#10;/Users/michaelgoldsmith/Sites/mckenzie&#10;/Users/michaelgoldsmith/Sites/piccolini.co.nz&#10;/Users/michaelgoldsmith/Sites/adshel.co.nz&#10;/Users/michaelgoldsmith/Sites/pokemongo-webspoof&#10;/Users/michaelgoldsmith/Downloads/pokemongo-webspoof-pokevision&#10;/Users/michaelgoldsmith/Downloads/we&#10;/Users/michaelgoldsmith/Downloads" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="search.everywhere.max.popup.width" value="676" />
+  </component>
+</application>

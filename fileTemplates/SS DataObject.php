@@ -5,6 +5,17 @@
 */
 class ${NAME} extends DataObject
 {
+
+    /**
+     * List of database fields. {@link DataObject::$db}
+     *
+     * @var array
+     */
+    private static ${DS}db = [
+        '' => ''
+    ];
+
+
     /**
      * @param null ${DS}member
      * @return bool

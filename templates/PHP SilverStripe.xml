@@ -67,7 +67,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="tf" value="TextField::create($END$)" description="TextField::create()" toReformat="false" toShortenFQNames="true">
+  <template name="tf" value="TextField::create('$CURSOR$',_t('$TRANSLATIONNAME$','$TRANSLATION$'))$END$" description="TextField::create()" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TRANSLATIONNAME" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="TRANSLATION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -209,6 +212,20 @@
   </template>
   <template name="adp" value="if (Permission::check('ADMIN')) &#10;{&#10;    $CURSOR$&#10;}" description="Only admin can view - permissions" toReformat="false" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sum" value="    /**&#10;     * @var array&#10;     */&#10;    private static $summary_fields = [&#10;        '$NAME$' =&gt; '$PARAMETERS$',&#10;    ];" description="Sumary fields" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="af" value="$fields-&gt;addFieldsToTab('Root.$NAME$',[&#10;    $FIELD$&#10;]);" description="Add Fields" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>

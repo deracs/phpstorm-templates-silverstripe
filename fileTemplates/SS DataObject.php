@@ -7,7 +7,7 @@ class ${NAME} extends DataObject
 {
 
     /**
-     * List of database fields. {@link DataObject::$db}
+     * List of database fields. {@link DataObject::${DS}db}
      *
      * @var array
      */

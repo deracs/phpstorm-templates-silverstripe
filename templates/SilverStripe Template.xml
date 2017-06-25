@@ -14,4 +14,11 @@
   <template name="noop" value="rel=&quot;noopener noreferrer&quot;" description="noopener" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
+  <template name="_t" value="&lt;% _t('$identifier$', '$string$') %&gt;" description="Translation tag. Used with lang yaml files." toReformat="true" toShortenFQNames="true">
+    <variable name="identifier" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="string" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SILVERSTRIPE" value="true" />
+    </context>
+  </template>
 </templateSet>

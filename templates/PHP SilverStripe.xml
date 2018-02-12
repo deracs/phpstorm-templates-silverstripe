@@ -230,4 +230,35 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="rf" value="$fields-&gt;removeByName([$NAME$]);" description="Remove Fields" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="owns" value="/**&#10; * @var array&#10; */&#10;private static $owns = [&#10;    '$NAME$'&#10;];" description="Owns Array" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bmm" value="/**&#10; * List of belongs-many-to-many relationships. {@link DataObject::$belongs_many_many}&#10; *&#10; * @var array&#10; */&#10;private static $belongs_many_many = array(&#10;    '$NAME$' =&gt; $TYPE$&#10;);" description="belongs many many" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tn" value="/**&#10; * Update the table name to reflect the class&#10; * instead of the namespace&#10; * @var array&#10; */&#10;private static $table_name = '$NAME$';" description="table name - rename the table db name" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="sf" value="/**&#10; * @var array&#10; */&#10;private static $summary_fields = [$CURSOR$];$END$" description="Summary Field" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
